@@ -7,3 +7,7 @@
 ## Javascript
 
 * clickService (Allows managing click, long click, double click and long touch in the same element.)
+
+## PHP
+
+* autoloader (php classes autoloader)
