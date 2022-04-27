@@ -11,3 +11,4 @@
 ## PHP
 
 * autoloader (php classes autoloader)
+* languageSupport (use in js the same php translation files as Laravel)
